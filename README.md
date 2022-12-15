@@ -81,5 +81,4 @@ ____
 ____
 [![codewars](https://www.codewars.com/users/doctor-silence/badges/large)](https://www.codewars.com/users/doctor-silence)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doctor-silence)](https://github.com/doctor-silence/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
