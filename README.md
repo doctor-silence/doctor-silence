@@ -82,3 +82,4 @@ ____
 [![codewars](https://www.codewars.com/users/doctor-silence/badges/large)](https://www.codewars.com/users/doctor-silence)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=doctor-silence&repo=Python_Blog)](https://github.com/doctor-silence/Python_Blog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=doctor-silence&repo=password_generator)](https://github.com/doctor-silence/password_generator)
