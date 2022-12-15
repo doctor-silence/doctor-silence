@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="http://doctorsilence.pythonanywhere.com/" target="_blank">Vladimir</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Python+developer+from+Russia%F0%9F%87%B7%F0%9F%87%BA" alt="Typing SVG" /></a>
-____
+____<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=doctor-silence)](https://github.com/doctor-silence/github-profile-trophy)
 
 ____
@@ -78,6 +78,6 @@ ____
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-____
+____<br>
 [![codewars](https://www.codewars.com/users/doctor-silence/badges/large)](https://www.codewars.com/users/doctor-silence)
 
